@@ -1,5 +1,5 @@
 package com.example.controller;
 
 public class Sampled {
-    //adding dummy1
+    //in dev2 branch
 }
